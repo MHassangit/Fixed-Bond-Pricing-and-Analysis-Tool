@@ -1,4 +1,5 @@
 ## Bond Pricing Methods: A Comprehensive Overview
+
 ![image](https://github.com/user-attachments/assets/571c7900-2fdd-4240-872e-b39944f026c1) ![image](https://github.com/user-attachments/assets/87344d26-7c05-40b5-ac95-2c9439f67221)
 ### 1. Discounted Cash Flow (DCF) Method
 **Used in the Current Implementation**
