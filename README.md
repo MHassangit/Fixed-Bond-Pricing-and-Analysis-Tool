@@ -1,8 +1,5 @@
 ## Bond Pricing Methods: A Comprehensive Overview
 ![image](https://github.com/user-attachments/assets/571c7900-2fdd-4240-872e-b39944f026c1) ![image](https://github.com/user-attachments/assets/87344d26-7c05-40b5-ac95-2c9439f67221)
-![image](https://github.com/user-attachments/assets/a45a2586-5d40-4c09-a905-feda388ba07b) ![image](https://github.com/user-attachments/assets/5badb80d-54fd-42b5-8282-d129872921b1)
-![image](https://github.com/user-attachments/assets/436bc528-0fbd-4ed2-8806-273714a20879) ![image](https://github.com/user-attachments/assets/bc2b2624-236e-4e26-af54-f3d9c389d15c)
-
 ### 1. Discounted Cash Flow (DCF) Method
 **Used in the Current Implementation**
 
@@ -19,13 +16,15 @@ Where:
 - Considers time value of money
 - Accounts for all future cash flows
 - Highly flexible and adaptable
-
+  
+![image](https://github.com/user-attachments/assets/a45a2586-5d40-4c09-a905-feda388ba07b) ![image](https://github.com/user-attachments/assets/5badb80d-54fd-42b5-8282-d129872921b1)
 ### 2. Par Value Method
 - Bond priced at face value
 - Occurs when coupon rate = market interest rate
 - Least complex method
 - Rarely occurs in real-world scenarios
-
+  
+![image](https://github.com/user-attachments/assets/436bc528-0fbd-4ed2-8806-273714a20879) ![image](https://github.com/user-attachments/assets/bc2b2624-236e-4e26-af54-f3d9c389d15c)
 ### 3. Yield to Maturity (YTM)
 - Calculates total return if bond held to maturity
 - Considers both coupon payments and price changes
